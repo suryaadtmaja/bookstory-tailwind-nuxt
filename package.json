@@ -22,7 +22,7 @@
     "css-loader": "^3.4.2",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-prettier": "^3.0.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.7.0",
